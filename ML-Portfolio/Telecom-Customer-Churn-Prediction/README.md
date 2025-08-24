@@ -40,9 +40,9 @@ Telecom-Customer-Churn-Prediction/
    ```
 
 ## 📈 Results
-- Best model: **Random Forest**
-- Accuracy: **91%**
-- F1-Score: **0.89**
+- Best model: **Logistic Regression**
+- Recall: **82-84%**
+- roc_auc score: **0.83**
 
 ## 🛠️ Requirements
 - Python 3.8+
@@ -61,3 +61,4 @@ This project is licensed under the MIT License.
 - Tutorials and resources from FreeCodeCamp and Scikit-learn documentation.
 
 ---
+
